@@ -1,0 +1,8 @@
+!pip install ipykernel -U --force-reinstall
+!pip install mlflow
+!pip install sentence_transformers
+!pip install xgboost
+!pip install openai
+
+
+!pip install sentence-transformers scikit-learn
