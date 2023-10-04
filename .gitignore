@@ -1,0 +1,7 @@
+mlruns/
+venv/
+pkl/clf.pkl
+pkl/model.pkl
+__pycache__/main.cpython-39.pyc
+src/text_labeling.ipynb
+__pycache__/server.cpython-39.pyc
