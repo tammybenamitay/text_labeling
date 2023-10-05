@@ -4,10 +4,11 @@ import openai
 import config
 import nltk
 import utils
-
+import numpy as np
 import pandas as pd
 from sentence_transformers import SentenceTransformer
 from nltk.corpus import stopwords
+from sklearn.metrics import mean_absolute_error, mean_squared_error, r2_score
 
 stop_words = stopwords.words('english')
 from sklearn.model_selection import train_test_split
@@ -51,21 +52,21 @@ def load_data(data_folder_path, word_count_num):
     df = pd.DataFrame({'label': folder_names, 'text': data_list})
     return df
 
-def create_model_LogisticRegression(encoded_texts,max_iter_num ):
-    X_train, X_test, y_train, y_test = train_test_split(encoded_texts, df['label'], test_size=0.2, random_state=42)
+def create_model_LogisticRegression(encoded_texts,max_iter_num , dfLabels, test_size_num):
+
+    X_train, X_test, y_train, y_test = train_test_split(encoded_texts, dfLabels, test_size=test_size_num, random_state=42)
 
     clf = LogisticRegression(max_iter=max_iter_num)
     clf.fit(X_train, y_train)
 
     y_pred = clf.predict(X_test)
     accuracy = accuracy_score(y_test, y_pred)
-    report = classification_report(y_test, y_pred)
+    # report = classification_report(y_test, y_pred)
 
-    print(f"Accuracy: {accuracy}")
-    print("Classification Report:")
-    print(report)
-
-    return clf
+    # print(f"Accuracy: {accuracy}")
+    # print("Classification Report:")
+    # print(report)
+    return (clf, y_pred) 
 
 
 def generate_text_with_openai(subject):
