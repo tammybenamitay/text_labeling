@@ -14,7 +14,7 @@ stop_words = stopwords.words('english')
 from sklearn.model_selection import train_test_split
 from sklearn.linear_model import LogisticRegression
 from sklearn.metrics import accuracy_score, classification_report
-from gensim.summarization import summarize
+#from gensim.summarization import summarize
 
 prt = nltk.stem.PorterStemmer()
 nltk.download('punkt')
@@ -46,7 +46,7 @@ def load_data(data_folder_path, word_count_num):
             for file_name in os.listdir(folder_path):
                 file_path = folder_path+'/'+file_name
                 file_data = preprocess(file_path)
-                data_list.append(file_data)
+                data_list.append(file_data.lower)
                 #summarize_data.append(summarize(file_data, word_count=word_count_num))
 
     df = pd.DataFrame({'label': folder_names, 'text': data_list})
@@ -84,6 +84,6 @@ def generate_text_with_openai(subjectName):
     )
 
     # Extract the generated text from the response
-    print(response.choices)
+    #print(response.choices)
     generated_text = response.choices[0].text
     return generated_text

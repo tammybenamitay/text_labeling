@@ -12,7 +12,8 @@ RUN pip install --no-cache-dir --upgrade -r requirements.txt
 
 RUN pip install fastapi uvicorn
 
-#We then copy the rest of our application’s source code from our host to the image’s working directory.
+RUN [ "python3", "-c", "import nltk; nltk.download('punkt', download_dir='/usr/local/nltk_data')" ]
+
 COPY . /app
 
 #This is the command that will be executed when a container is created from this image.
