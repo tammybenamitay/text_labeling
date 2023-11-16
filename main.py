@@ -2,7 +2,7 @@ from typing import Union
 
 from fastapi import FastAPI
 import pickle
-import utils
+import utils_fastapi
 
 app = FastAPI()
 
@@ -31,7 +31,7 @@ async def create_item(new_text):
 @app.post("/generate_with_openai/")
 async def create_item(subject):
 
-    new_text = utils.generate_text_with_openai(subject)
+    new_text = utils_fastapi.generate_text_with_openai(subject)
 
     loaded_model = pickle.load(open('./pkl/model.pkl' , 'rb'))
     clf = pickle.load(open('./pkl/clf.pkl' , 'rb'))
