@@ -39,14 +39,12 @@ def load_data(data_folder_path, word_count_num):
 
     for folder_name in os.listdir(data_folder_path):
         folder_path = os.path.join(data_folder_path, folder_name)
-        
         if os.path.isdir(folder_path):
             folder_names.extend([folder_name] * len(os.listdir(folder_path)))  
-            
             for file_name in os.listdir(folder_path):
                 file_path = folder_path+'/'+file_name
                 file_data = preprocess(file_path)
-                data_list.append(file_data.lower)
+                data_list.append(file_data.lower())
                 #summarize_data.append(summarize(file_data, word_count=word_count_num))
 
     df = pd.DataFrame({'label': folder_names, 'text': data_list})
@@ -71,13 +69,13 @@ def create_model_LogisticRegression(encoded_texts,max_iter_num , dfLabels, test_
 
 def generate_text_with_openai(subjectName):
 
-    api_key = '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'
+    api_key = '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'
 
     request = 'generate an 150 words article on any random {subject} category'.format(subject=subjectName)
 
     # Configure GPT-3 parameters
     response = openai.Completion.create(
-        engine="text-davinci-001",  # You can choose other engines like 'text-davinci-003'
+        engine="text-davinci-003",  # You can choose other engines like 'text-davinci-003'
         prompt=request,
         max_tokens=150,  # Adjust the desired length of the generated text
         api_key=api_key

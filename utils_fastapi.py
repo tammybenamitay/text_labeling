@@ -2,7 +2,7 @@ import openai
 
 def generate_text_with_openai(subjectName):
 
-    api_key = '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'
+    api_key = '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'
 
     request = 'generate an 150 words article on any random {subject} category'.format(subject=subjectName)
 
