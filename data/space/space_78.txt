@@ -13,8 +13,8 @@ Notes:
 	which have not yet flown are marked by an asterisk (*) If a vehicle
 	had first launch after publication of my data, it may still be
 	marked with an asterisk.
-Vehicle        |     Payload  kg  (lbs)   | Reliability | Price | Launch Site
-(nation)       |  LEO	   Polar    GTO   |		|	| (Lat. & Long.)
+Vehicle             Payload  kg  (lbs)    Reliability  Price  Launch Site
+(nation)         LEO	   Polar    GTO   			 (Lat. & Long.)
 Ariane					    35/40  87.5%	  Kourou
 Atlas					   213/245 86.9%	 Cape Canaveral
   Atlas E	 --	   820	     --     15/17	  $45m	 Vandeberg AFB

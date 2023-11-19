@@ -7,9 +7,9 @@ Instead, I use pnmtops. This takes full advantage PostScript, and
 lets the printer do the dirty job of dithering a (graylevel)
 image to black and white dots.
 So: if you have a PostScript printer, try:
-	xwdtopnm <xwdfile> |	# convert to PPM
-	[ppmtopgm |]		# .. to graylevel for smaller file to print
-	pnmtops -noturn |	# .. to PostScript
+	xwdtopnm <xwdfile 	# convert to PPM
+	[ppmtopgm ]		# .. to graylevel for smaller file to print
+	pnmtops -noturn 	# .. to PostScript
 	lpr			# print
 pnmtops Has several neat options, but use them with care:
 If you want your image to be 4" wide, use:
@@ -27,6 +27,6 @@ If you want your image to be 4" wide, use:
 Hope this helps.
 Marcel.
  X	   Marcel Wijkstra   AIO   (wijkstra@fwi.uva.nl)
-|X|	     Faculty of Mathematics and Computer Science	
+X	     Faculty of Mathematics and Computer Science	
  X	       University of Amsterdam   The Netherlands
 ======Life stinks. Fortunately, I've got a cold.========

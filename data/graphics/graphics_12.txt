@@ -1,7 +1,6 @@
-In article <C51C4r.BtG@csc.ti.com> rowlands@hc.ti.com (Jon Rowlands) writes:
->A few years ago a friend and I took some 256 grey-level photos from
->a 1 bit Mac Plus screen using this method. Displaying all 256 levels
->synchronized to the 60Hz display took about 10 seconds.
+A few years ago a friend and I took some 256 grey-level photos from
+a 1 bit Mac Plus screen using this method. Displaying all 256 levels
+synchronized to the 60Hz display took about 10 seconds.
 Why didn't you create 8 grey-level images, and display them for
 1,2,4,8,16,32,64,128... time slices?
 This requires the same total exposure time, and the same precision in

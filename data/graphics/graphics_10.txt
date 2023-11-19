@@ -6,5 +6,4 @@ As far as I understand I have to define environmental and shadows maps to produc
 Any advises or simple RIB or C examples will be appreciated.
 Thanks in advance...
 Alex Kolesov                             Moscow, Russia.
-Talus Imaging & Communications Corporation
-e-mail: <alex@talus.msk.su> 		(NeXT mail accepted)  			   
+Talus Imaging & Communications Corporation			   

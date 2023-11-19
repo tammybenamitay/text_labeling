@@ -1,4 +1,3 @@
-In article <1993Apr19.144358.28376@spectrum.xerox.com> leisner@eso.mc.xerox.com writes:
 :I recently had a case of shingles and my doctors wanted to give me
 :intravenous Acyclovir.
 :It was a pain finding IV sites in my arms...can I have some facts about
@@ -13,5 +12,5 @@ To address your more general question, IV therapy does provide higher and
 more consistently high plasma and tissue levels of a drug.  For treating a
 serious infection this is the only way to be sure that a patient is
 getting adequate drug levels.
-=  Kenneth Gilbert              __|__        University of Pittsburgh   =
-=  General Internal Medicine      |      "...dammit, not a programmer!" =
+=  Kenneth Gilbert              ____        University of Pittsburgh   =
+=  General Internal Medicine            "...dammit, not a programmer!" =

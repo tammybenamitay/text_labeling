@@ -451,5 +451,5 @@ disease prevention objectives. Washington, DC: US Department of Health and
 Human Services, Public Health Service, 1991; DHHS publication no. (PHS)91-
 --------- end of part 1 ------------
       Internet: david@stat.com                  FAX: +1 (602) 451-1165
-      Bitnet: ATW1H@ASUACAD                     FidoNet=> 1:114/15
+      Bitnet: ATW1H@ASUACAD                     FidoNet= 1:114/15
                 Amateur Packet ax25: wb7tpy@wb7tpy.az.usa.na

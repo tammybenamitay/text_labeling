@@ -1,8 +1,8 @@
 : henry@zoo.toronto.edu (Henry Spencer) writes:
-: >There is an emergency oxygen system that is capable of maintaining a
-: >breathable atmosphere in the cabin for long enough to come down, even
-: >if there is something like a 5cm hole in the wall that nobody tries
-: >to plug.
+: There is an emergency oxygen system that is capable of maintaining a
+: breathable atmosphere in the cabin for long enough to come down, even
+: if there is something like a 5cm hole in the wall that nobody tries
+: to plug.
 Josh Hopkins (jbh55289@uxa.cso.uiuc.edu) replied:
 : Wow.
 : Double wow.  Can you land a shuttle with a 5cm hole in the wall?

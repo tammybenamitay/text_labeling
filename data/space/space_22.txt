@@ -1,17 +1,16 @@
-In article <843@rins.ryukoku.ac.jp> will@rins.ryukoku.ac.jp (William Reiken) writes:
->> The real reason why accelerator breeders or incinerators are not being
->> built is that there isn't any reason to do so.  Natural uranium is
->> still too cheap, and geological disposal of actinides looks
->> technically reasonable.
->	November/December, 1987 page 21 - "Science and Technology in Japan".
->			Seawater Uranium Recovery Experiment
->	"The ground uranium reserves are estimated at about 3.6 million tons,
-> and it is anticipated that the demand and supply balance will collapse by the
-> end of the 20th century.  In Japan, a resources poor country, technological
-> development are now under way to economically collect uranium dissolved in
-> seawater.  The total quanity of uranium dissolved in seawater is estimated
-> to be about 4.6 billion tons, a huge amount when compared with ground uranium
-> reserves......."
+ The real reason why accelerator breeders or incinerators are not being
+ built is that there isn't any reason to do so.  Natural uranium is
+ still too cheap, and geological disposal of actinides looks
+ technically reasonable.
+	November/December, 1987 page 21 - "Science and Technology in Japan".
+			Seawater Uranium Recovery Experiment
+	"The ground uranium reserves are estimated at about 3.6 million tons,
+ and it is anticipated that the demand and supply balance will collapse by the
+ end of the 20th century.  In Japan, a resources poor country, technological
+ development are now under way to economically collect uranium dissolved in
+ seawater.  The total quanity of uranium dissolved in seawater is estimated
+ to be about 4.6 billion tons, a huge amount when compared with ground uranium
+ reserves......."
 I hate to pour cold water on this, but currently seawater extracted
 uranium, even using the new, improved fiber absorbers from Japan, is
 about 20 times more expensive than uranium on the spot market.

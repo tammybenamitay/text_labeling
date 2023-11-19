@@ -1,10 +1,9 @@
-In article <C5133A.Gzx@news.cso.uiuc.edu> jbh55289@uxa.cso.uiuc.edu (Josh Hopkins) writes:
->>>Titan IV launches ain't cheap 
->>Granted. But that's because titan IV's are bought by the governemnt. Titan
->>III is actually the cheapest way to put a pound in space of all US expendable
->>launchers.
->In that case it's rather ironic that they are doing so poorly on the commercial
->market.  Is there a single Titan III on order?
+Titan IV launches ain't cheap 
+Granted. But that's because titan IV's are bought by the governemnt. Titan
+III is actually the cheapest way to put a pound in space of all US expendable
+launchers.
+In that case it's rather ironic that they are doing so poorly on the commercial
+market.  Is there a single Titan III on order?
 The problem with Commercial Titan is that MM has made little or no attempt
 to market it.  They're basically happy with their government business and
 don't want to have to learn how to sell commercially.
@@ -18,5 +17,5 @@ prevented launches from it for a year or so.
 There have been a few CT launches.  Mars Observer was one of them.  So
 was that stranded Intelsat, and at least one of its brothers that reached
 orbit properly.
-All work is one man's work.             | Henry Spencer @ U of Toronto Zoology
-                    - Kipling           |  henry@zoo.toronto.edu  utzoo!henry
+All work is one man's work.              Henry Spencer @ U of Toronto Zoology
+                    - Kipling             henry@zoo.toronto.edu  utzoo!henry

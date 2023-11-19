@@ -1,12 +1,11 @@
-In article <735157066.AA00449@calcom.socal.com> Daniel.Prince@f129.n102.z1.calcom.socal.com (Daniel Prince) writes:
-> Is there an effect where the doctor believes so strongly in a 
-> medicine that he/she sees improvement where the is none or sees 
-> more improvement than there is?  If so, what is this effect 
-> called?  Is there a reverse of the above effect where the doctor 
-> doesn't believe in a medicine and then sees less improvement than 
-> there is?  What would this effect be called?  Have these effects 
-> ever been studied?  How common are these effects?  Thank you in 
-> advance for all replies. 
+ Is there an effect where the doctor believes so strongly in a 
+ medicine that he/she sees improvement where the is none or sees 
+ more improvement than there is?  If so, what is this effect 
+ called?  Is there a reverse of the above effect where the doctor 
+ doesn't believe in a medicine and then sees less improvement than 
+ there is?  What would this effect be called?  Have these effects 
+ ever been studied?  How common are these effects?  Thank you in 
+ advance for all replies. 
 These effects are a very real concern in conducting studies of new
 treatments.  Researchers try to limit this kind of effect by 
 performing studies that are "blind" in various ways.  Some of these

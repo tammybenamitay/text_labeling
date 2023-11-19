@@ -1,14 +1,13 @@
-In article <7155@pdxgate.UUCP> idr@rigel.cs.pdx.edu (Ian D Romanick) writes:
-> One thing:  a small change in initial conditions can cause a huge
-> change in final conditions.  There are certain things about the way
-> the plate tektoniks and volcanic activity effect a land scape that
-> is, while not entirely random, unpredictable.  This is also true with
-> fractals, so one could also conclude that you could model this
-> fractally. 
+ One thing:  a small change in initial conditions can cause a huge
+ change in final conditions.  There are certain things about the way
+ the plate tektoniks and volcanic activity effect a land scape that
+ is, while not entirely random, unpredictable.  This is also true with
+ fractals, so one could also conclude that you could model this
+ fractally. 
 Yeah, and it's also true most long complicated sequences of events,
 calculations, or big computer programs in general.  I don't argue
 that you can get similar and maybe useful results from fractals, I
-just question whether you >should<.
+just question whether you should<.
 The fractal fiends seem to be saying that any part of a system that we
 can't model should be replaced with a random number generator.  That
 has been useful, for instance, in making data more palatable to human
@@ -18,8 +17,8 @@ that the model be improved in a more explicable manner.
 I guess I just haven't seen all these earth-shaking fractal models
 that explain and correlate to the universe as it actually exists.  I
 really hope I do, but I'm not holding my self-similar breath.
-> There is one other thing that fractals are good for:  fractal
-> image compression.
+ There is one other thing that fractals are good for:  fractal
+ image compression.
 Uh huh.  I'll believe it when I see it.  I've been chasing fractal
 compression for a few years, and I still don't believe in it.  If it's so
 great, how come we don't see it competing with JPEG?  'Cause it can't,

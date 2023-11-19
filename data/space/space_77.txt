@@ -1,6 +1,6 @@
-In <1993Apr3.233154.7045@Princeton.EDU> lije@cognito.Princeton.EDU (Elijah Millgram) writes:
->A friend of mine and I were wondering where the expression "pushing
->the envelope" comes from.  Anyone out there know?
+In <1993Apr3.233154.7045@Princeton.EDU lije@cognito.Princeton.EDU (Elijah Millgram) writes:
+A friend of mine and I were wondering where the expression "pushing
+the envelope" comes from.  Anyone out there know?
 Every aircraft has flight constraints for speed/AOA/power.  When
 graphed, these define the 'flight envelope' of that aircraft,
 presumably so named because the graphed line encloses (envelopes) the

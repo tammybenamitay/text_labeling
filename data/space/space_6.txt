@@ -237,8 +237,8 @@ Last-modified: $Date: 93/04/01 14:39:21 $
 	"Antiproton Annihilation Propulsion", Robert Forward
 	    AFRPL TR-85-034 from the Air Force Rocket Propulsion Laboratory
 	    (AFRPL/XRX, Stop 24, Edwards Air Force Base, CA 93523-5000).
-	    PC => Paper copy, A10 => $US57.90 -- or maybe Price Code?
-	    MF => MicroFiche, A01 => $US13.90
+	    PC = Paper copy, A10 = $US57.90 -- or maybe Price Code?
+	    MF = MicroFiche, A01 = $US13.90
 	    Technical study on making, holding, and using antimatter for
 	    near-term (30-50 years) propulsion systems. Excellent
 	    bibliography. Forward is the best-known proponent

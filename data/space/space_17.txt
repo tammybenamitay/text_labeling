@@ -117,7 +117,7 @@ Last-modified: $Date: 93/04/01 14:39:04 $
 	299792458 m/s	  (3e8)  -- speed of light in vacuum "c"
 	9.46053e15 m	  (1e16) -- light year
 	206264.806 AU	  (2e5)  -- \
-	3.2616 light years (3)	 --  --> parsec
+	3.2616 light years (3)	 --  -- parsec
 	3.0856e16 m	 (3e16)  -- /
 Black Hole radius (also called Schwarzschild Radius):
 	2GM/c^2, where G is Newton's Grav Constant, M is mass of BH,

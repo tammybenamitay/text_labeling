@@ -1,10 +1,10 @@
 kazsato@twics.co.jp writes:
->Hi,
->I'd like to know if there is any system (CPU + HD array + framebuffer)
->which can play and record HDTV quality moving picture in realtime.
->HDTV has about 6MB/frame, so recording/playing moving picture will need
->about 180MB/sec bandwidth. I'm thinking to treat the raw data.. not
->compressed. 
+Hi,
+I'd like to know if there is any system (CPU + HD array + framebuffer)
+which can play and record HDTV quality moving picture in realtime.
+HDTV has about 6MB/frame, so recording/playing moving picture will need
+about 180MB/sec bandwidth. I'm thinking to treat the raw data.. not
+compressed. 
 Finding a disk array that can do 180MB/sec. will be difficult. The fastest
 ones I know about are from Maximum Strategy (IBM also sells these). They
 can attach HiPPI at up to 144 MB/sec. (64 bit). For these kinds of data
@@ -23,12 +23,12 @@ You might still want to look into compression as it will be very difficult
 to keep the HiPPI bus fully working at all times - sustained throughput
 might come close to maximum burst rate.
 Interesting problem. Tell us more if you can?
->If anyone can advise me what kind of product I should look into, please
->e-mail me. I will appriciate it. The vendor's e-mail address, price of
->the products, actual performance data of the products, any info will 
->help me.
->Thanks in advance,
->Kaz Sato, Tokyo, Japan
->e-mail: kazsato@twics.co.jp
+If anyone can advise me what kind of product I should look into, please
+e-mail me. I will appriciate it. The vendor's e-mail address, price of
+the products, actual performance data of the products, any info will 
+help me.
+Thanks in advance,
+Kaz Sato, Tokyo, Japan
+e-mail: kazsato@twics.co.jp
           Dick Wilmot
           Editor, Independent RAID Report

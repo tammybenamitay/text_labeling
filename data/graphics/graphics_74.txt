@@ -82,7 +82,7 @@ CIA World Map II
   There's another program, which reads a compressed CIA Data Bank file and
   builds a PHIGS hierachical structure. It uses a PHIGS extension known as
   polyline sets for performance, but you can use regular polylines. Ask
-  Joe Stewart <joes@lpi.liant.com>.
+  Joe Stewart <joes@lpi.liant.com.
   The raw data at Stanford require the vplot package to be able to view it.
   (was posted in comp.sources.unix). To be more exact, you'll have to
   compile just the libvplot routines, not the whole package.
@@ -151,7 +151,7 @@ Others
   GIF format (updated hourly)
   pioneer.unm.edu [129.24.9.217] is the Space and Planetary Image Facility
   (located on the University of New Mexico campus) FTP server. It provides
-  Anonymous FTP access to >150 CD-ROMS  with data/images.
+  Anonymous FTP access to 150 CD-ROMS  with data/images.
   A disk with earthquake data, topography, gravity, geopolitical info
   is available from NGDC (National Geophysical Data Center), 325 Broadway,
   Boulder, CO  80303.  (303) 497-6958.
@@ -328,7 +328,7 @@ a specific resolution (around 8x8[x4 triangles] meshing per patch).
 The SPD package provides the spline patch descriptions and performs a
 tessellation at any specified resolution.
 b. Space Shuttle ?
-Tolis Lerios <tolis@nova.stanford.edu> has built a list of Space Shuttle
+Tolis Lerios <tolis@nova.stanford.edu has built a list of Space Shuttle
 datafiles. Here's a summary (From his sci.space list):
 model1:
 A modified version of the newsgroup model (model2)
@@ -351,7 +351,7 @@ model4:
 The NASA model.
 The file starts off with a header line containing three real numbers,
 defining the offsets used by Lockheed in their simulations:
-<x offset> <y offset> <z offset>
+<x offset <y offset <z offset
 From then on, the file consists of a sequence of polygon descriptions
 3473 vertices.
 2748 polygons (407 3-vertex, 2268 4-vertex, 33 5-vertex, 14 6-vertex,
@@ -443,7 +443,7 @@ Spyglass
   Champaign, IL  61826
 KHOROS 1.0 Patch 5
   Available via anonymous ftp at pprg.eece.unm.edu (129.24.24.10).
-  cd to /pub/khoros to see what is available. It is HUGE (> 100 MB), but good.
+  cd to /pub/khoros to see what is available. It is HUGE ( 100 MB), but good.
   Needs Unix and X11R4. Freely copied (NOT PD), complete with sources
   and docs. Very extensive and at its heart is visual programming.
   Khoros components include a visual programming language, code
@@ -549,7 +549,7 @@ Contact:
   Burnaby, B.C., CANADA
   Tel: 604-435-2587
   Fax: 604-435-8840
-  Terry Arden <poon@ee.ubc.ca>
+  Terry Arden <poon@ee.ubc.ca
   A system for visually exploring the output of 5-D gridded data sets
   such as those made by weather models. Platforms:
     SGI IRIS with VGX, GTX, TG, or G graphics,
@@ -559,10 +559,10 @@ Contact:
   In any case, 32 (or more) MB of RAM are suggested.
   You can get it freely (thanks to NASA support) via anonymous ftp:
  ftp iris.ssec.wisc.edu  (or ftp 144.92.108.63), then
-  ftp> cd pub/vis5d
-  ftp> ascii
-  ftp> get README
-  ftp> bye
+  ftp cd pub/vis5d
+  ftp ascii
+  ftp get README
+  ftp bye
  NOTE: You can find the package also on wuarchive.wustl.edu in the
  graphics/graphics/packages directory.
   Read section 2 of the README file for full instructions
@@ -599,7 +599,7 @@ Wavefront
     Tokyo 168 Japan
 PLOT3D and FAST from NASA Ames
   These packages are distributed from COSMIC at least
-  (for FAST ask Pat Elson <pelson@nas.nasa.gov> for
+  (for FAST ask Pat Elson <pelson@nas.nasa.gov for
   distribution information). In general, these codes are for US
   citizens only :-(
   On the contrib tape of X11R5. Its specialty is display of up
@@ -773,7 +773,7 @@ To acquire GVLware, anonymous ftp to:
         file    - /pub/gvl.tar.Z
 To use GVLware:
         mkdir gvl ; cd gvl
-        zcat gvl.tar.Z | tar xvf -
+        zcat gvl.tar.Z  tar xvf -
         more README
 Some Bob features:
         Motif interface, SGI GL rendering
@@ -821,9 +821,9 @@ High Performance Computing Research Center.
   6509 Airport Road
   Mississauga, Ontario,
   Canada, L4V-1S7
-  e-mail: Rod Gilchrist <rod@isgtec.com>
+  e-mail: Rod Gilchrist <rod@isgtec.com
 18. Molecular visualization stuff
-[ Based on a list from cristy@dupont.com < Cristy > , which asked for
+[ Based on a list from cristy@dupont.com < Cristy  , which asked for
  systems for displaying Molecular Dynamics, MD for short ]
 Flex
   It is a public domain package written by Michael Pique, at The Scripps
@@ -838,7 +838,7 @@ MacMolecule
 XtalView
   It is a crystallography package that does visualize molecules and much more.
   It uses the XView toolkit.
-  Call Duncan McRee <dem@scripps.edu>
+  Call Duncan McRee <dem@scripps.edu
 landman@hal.physics.wayne.edu:
   I am writing my own visualization code right now.  I look at MD output
   (a specific format, easy to alter for the subroutine) on PC's.  My
@@ -886,7 +886,7 @@ XMol
   the generation of probe surfaces, proton affinity
   surfaces and molecular orbitals from an extended Huckel program.
   It works on Silicon Graphics machines.
-  Contact Leif Laaksonen <Leif.Laaksonen@csc.fi or laaksone@csc.fi>
+  Contact Leif Laaksonen <Leif.Laaksonen@csc.fi or laaksone@csc.fi
 ns.niehs.nih.gov [157.98.8.8] : /pub - MULTI 3.0 (Multi-Process
 		Molecular Modeling Suite)
 MindTool

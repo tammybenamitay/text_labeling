@@ -11,5 +11,5 @@ Geoff Thomas			geoffrey@cosc.canterbury.ac.nz
 Computer Science Dept.
 University of Canterbury
 Private Bag				+-------+
-Christchurch				| Oook! |
+Christchurch				 Oook! 
 New Zealand				+-------+

@@ -1,13 +1,11 @@
 Sorry I missed you Raymond, I was just out in Dahlgren last month...
 I'm the Virtual Reality market manager for Silicon Graphics, so perhaps I
 can help a little.
-In article <1993Mar17.185725.13487@relay.nswc.navy.mil>,
-rchui@nswc-wo.nswc.navy.mil (Raymond Chui) writes:
-|> Hello, the real reality. Our agency started to express interest in
-|> virtual reality(VR).  So far, we do not know much about VR.  All we
-|> know about are the Hollywood movies "The Terminater 2" and "Lawnmover
-|> Man".  We also know something about VR from ABC news magazine and
-|> Computer Graphics World magazine.
+ Hello, the real reality. Our agency started to express interest in
+ virtual reality(VR).  So far, we do not know much about VR.  All we
+ know about are the Hollywood movies "The Terminater 2" and "Lawnmover
+ Man".  We also know something about VR from ABC news magazine and
+ Computer Graphics World magazine.
 Unfortunately, while SGI systems were used to create the special effects
 for both Terminator 2 and Lawnmower Man, those are film-quality computer
 graphics, rendered in software and written to film a frame at a time.  Each
@@ -15,10 +13,10 @@ frame of computer animation for those films took hours to render on
 high-end parallel processing computer systems. Thus, that level of graphics
 would be difficult, if not impossible, to acheive in real time (30 frames
 per second).
-|> We certainly want to know more about VR.  Who are the leading
-|> companies,
-|> agencies, universities?  What machines support VR (i.e. SGI, Sun4,
-|> HP-9000, BIM-6000, etc.)?
+ We certainly want to know more about VR.  Who are the leading
+ companies,
+ agencies, universities?  What machines support VR (i.e. SGI, Sun4,
+ HP-9000, BIM-6000, etc.)?
 It depends upon how serious you are and how advanced your application is.
 True immersive visualization (VR), requires the rendering of complex visual
 databases at anywhere from 20 to 60 newly rendered frames per second.  This
@@ -49,8 +47,8 @@ on the market today, only Crimson RealityEngine and Onyx RealityEngine2
 systems fully support these capabilities. The anti-aliasing is particularly
 important, as the crawling jagged edges of aliased polygons is an
 unfortunate distraction when immersed in a virtual environment.
-|>  What kind of graphics languages are used with VR
-|> (GL, opengl, Phigs, PEX, GKS, etc.)?
+  What kind of graphics languages are used with VR
+ (GL, opengl, Phigs, PEX, GKS, etc.)?
 You can use the general purpose graphics libraries listed above to develop
 VR applications, but that is starting at a pretty low level. There are
 off-the- shelf software packages available to get you going much faster,
@@ -63,9 +61,9 @@ popular are (in no particular order):
 	- Paradigm Simulation Inc.  (Dallas, TX)       - VisionWorks, AudioWorks
 	- Silicon Graphics Inc.	    (Mountain View,CA) - IRIS Performer
 There are some others, but not off the top of my head...
-|> What companies are making
-|> interface devices for VR (goggles or BOOM (Binocular Omni-Orientational
-|> Monitor), hamlets, gloves, arms, etc.)?
+ What companies are making
+ interface devices for VR (goggles or BOOM (Binocular Omni-Orientational
+ Monitor), hamlets, gloves, arms, etc.)?
 There are too many to list here, but here is a smattering:
 	- Fake Space Labs	    (Menlo Park,CA)    - BOOM
 	- Virtual Technologies Inc. (Stanford, CA)     - CyberGlove
@@ -75,10 +73,10 @@ There are too many to list here, but here is a smattering:
 	- Virtual Reality Inc.	    (Pleasantville,NY) - Head Mtd Displays, s/w
 	- Software Systems	    (San Jose, CA)     - 3D Modeling software
 	- etc., etc., etc.
-|> What are those company's
-|> addresses and phone numbers?  Where we can get a list name of VR
-|> experts
-|> and their phone numbers and Email addresses?
+ What are those company's
+ addresses and phone numbers?  Where we can get a list name of VR
+ experts
+ and their phone numbers and Email addresses?
 Read some of the VR books on the market:
 	- Virtual Reality - Ken Pimental and Ken Texiera (sp?)
 	- Virtual Mirage

@@ -1,7 +1,7 @@
 scrowe@hemel.bull.co.uk (Simon Crowe) writes:
->I am looking for an algorithm to determine if a given point is bound by a 
->polygon. Does anyone have any such code or a reference to book containing
->information on the subject ?
+I am looking for an algorithm to determine if a given point is bound by a 
+polygon. Does anyone have any such code or a reference to book containing
+information on the subject ?
 Well, it's been a while since this was discussed so i take the liberty of
 reprinting (without permission, so sue me) Eric Haines reprint of the very
 interesting discussion of this topic...
@@ -21,10 +21,10 @@ Intersection Between a Line and a Polygon (UNDECIDABLE??),
 	Keywords: P, NP, Jordan curve separation, Ursyhon Metrization Theorem
 	Organization: Program of Computer Graphics
 In article [...] ncsmith@ndsuvax.UUCP (Timothy Lyle Smith) writes:
->  I need to find a formula/algorithm to determine if a line intersects
->  a polygon.  I would prefer a method that would do this in as little
->  time as possible.  I need this for use in a forward raytracing
->  program.
+  I need to find a formula/algorithm to determine if a line intersects
+  a polygon.  I would prefer a method that would do this in as little
+  time as possible.  I need this for use in a forward raytracing
+  program.
 I think that this is a very difficult problem.  To start with, lines and
 polygons are semi-algebraic sets which both contain uncountable number of
 points.  Here are a few off-the-cuff ideas.

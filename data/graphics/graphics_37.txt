@@ -1,6 +1,5 @@
-In article <1pscti$aqe@travis.csd.harris.com> srp@travis.csd.harris.com (Stephen Pietrowicz) writes:
->How do you go about orienting all normals in the same direction, given a 
->set of points, edges and faces? 
+How do you go about orienting all normals in the same direction, given a 
+set of points, edges and faces? 
 Look for edge inconsistencies.  Consider two vertices, p and q, which
 are connected by at least one edge.
 If (p,q) is an edge, then (q,p) should *not* appear.  

@@ -1,7 +1,5 @@
-Dominic Lai (cs_cylai@cs.ust.hk) wrote:
-: Simon Crowe (scrowe@hemel.bull.co.uk) wrote:
-: 8~> I require BGI drivers for Super VGA Displays and Super XVGA Displays. Does 
-: 8~> anyone know where I could obtain the relevant drivers ? (FTP sites ??)
+: 8~ I require BGI drivers for Super VGA Displays and Super XVGA Displays. Does 
+: 8~ anyone know where I could obtain the relevant drivers ? (FTP sites ??)
 : 	I would like to know too!
 : Regards,
 : Dominic

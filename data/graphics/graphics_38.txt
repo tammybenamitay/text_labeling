@@ -1,6 +1,6 @@
-In <1pscti$aqe@travis.csd.harris.com> srp@travis.csd.harris.com (Stephen Pietrowicz) writes:
->How do you go about orienting all normals in the same direction, given a 
->set of points, edges and faces?
+In <1pscti$aqe@travis.csd.harris.com srp@travis.csd.harris.com (Stephen Pietrowicz) writes:
+How do you go about orienting all normals in the same direction, given a 
+set of points, edges and faces?
 This algorithm works well for me:
 Algorithm to attempt to find outward-facing normals:
 First, mark all faces as UNKNOWN.

@@ -421,7 +421,7 @@ YSO: Young Stellar Object
 #!/usr/bin/perl
 # 'alt', An Acronym Scrambling Program, by Larry Wall
 srand;
-while (<>) {
+while (<) {
     next unless /^([A-Z]\S+): */;
     $key = $1;
     $acro{$key} = $';
@@ -441,35 +441,35 @@ foreach $letter (A .. Z) {
 foreach $key (sort keys %acro) {
     $off = 0;
     $acro = $acro{$key};
-    $acro =~ s/((([A-Z])[A-Z]*)[a-z]*)/ &pick($3, $2, $1, ++$off) || $& /eg;
+    $acro =~ s/((([A-Z])[A-Z]*)[a-z]*)/ &pick($3, $2, $1, ++$off)  $& /eg;
     print "$key: $acro";
 sub pick {
     local($letter, $prefix, $oldword, $off) = @_;
     $i = 0;
-    if (length($prefix) > 1 && index($key,$prefix) < 0) {
+    if (length($prefix)  1 && index($key,$prefix) < 0) {
         if ($prefix eq $oldword) {
             $prefix = '';
         else {
             $prefix = $letter;
-    if (length($prefix) > 1) {
+    if (length($prefix)  1) {
         local(*w) = substr($prefix,0,1);
         do {
             $word = $w[rand @w];
-        } until $word ne $oldword && $word =~ /^$prefix/i || ++$i > 30;
+        } until $word ne $oldword && $word =~ /^$prefix/i  ++$i  30;
         $word =~ s/^$prefix/$prefix/i;
         $word;
     elsif (length($prefix) == 1) {
         local(*w) = $prefix;
         do {
             $word = $w[rand @w];
-        } until $word ne $oldword && vec($w{$word}, $off, 1) || ++$i > 10;
+        } until $word ne $oldword && vec($w{$word}, $off, 1)  ++$i  10;
         $word = "\u\L$word" if $word =~ tr/a-z/A-Z/;
         $word;
     else {
         local(*w) = substr($oldword,0,1);
         do {
             $word = $w[rand @w];
-        } until $word ne $oldword && $word =~ tr/a-z/A-Z/ == 0 || ++$i > 30;
+        } until $word ne $oldword && $word =~ tr/a-z/A-Z/ == 0  ++$i  30;
         $word;
--- Mark Bradford (bradfrd2@ncar.ucar.edu) <> To err is human, to moo bovine.
+-- Mark Bradford (bradfrd2@ncar.ucar.edu) < To err is human, to moo bovine.
                   "It's an ill wind that gathers no moss."

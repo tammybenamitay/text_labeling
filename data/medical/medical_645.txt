@@ -465,5 +465,5 @@ Volume  6, Number 11                                           April 25, 1993
         Street North, St. Petersburg, FL 33709-9989.
 --------- end of part 2 ------------
       Internet: david@stat.com                  FAX: +1 (602) 451-1165
-      Bitnet: ATW1H@ASUACAD                     FidoNet=> 1:114/15
+      Bitnet: ATW1H@ASUACAD                     FidoNet= 1:114/15
                 Amateur Packet ax25: wb7tpy@wb7tpy.az.usa.na

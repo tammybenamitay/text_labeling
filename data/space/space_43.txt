@@ -1,14 +1,14 @@
 yamauchi@ces.cwru.edu (Brian Yamauchi) writes:
->Any comments on the absorbtion of the Office of Exploration into the
->Office of Space Sciences and the reassignment of Griffin to the "Chief
->Engineer" position?  Is this just a meaningless administrative
->shuffle, or does this bode ill for SEI?
->In my opinion, this seems like a Bad Thing, at least on the surface.
->Griffin seemed to be someone who was actually interested in getting
->things done, and who was willing to look an innovative approaches to
->getting things done faster, better, and cheaper.  It's unclear to me
->whether he will be able to do this at his new position.
->Does anyone know what his new duties will be?
+Any comments on the absorbtion of the Office of Exploration into the
+Office of Space Sciences and the reassignment of Griffin to the "Chief
+Engineer" position?  Is this just a meaningless administrative
+shuffle, or does this bode ill for SEI?
+In my opinion, this seems like a Bad Thing, at least on the surface.
+Griffin seemed to be someone who was actually interested in getting
+things done, and who was willing to look an innovative approaches to
+getting things done faster, better, and cheaper.  It's unclear to me
+whether he will be able to do this at his new position.
+Does anyone know what his new duties will be?
 First I've heard of it. Offhand:
 Griffin is no longer an "office" head, so that's bad.
 On the other hand:
@@ -27,5 +27,5 @@ ghetto. That Griffin is staying in some capacity is very very very
 good. And if he brings something up, noone can say "why don't you go
 back to the OSE where you belong" (and where he couldn't even get money
 for design studies).
-Phil Fraering         |"Seems like every day we find out all sorts of stuff.
-pgf@srl02.cacs.usl.edu|Like how the ancient Mayans had televison." Repo Man
+Phil Fraering         "Seems like every day we find out all sorts of stuff.
+pgf@srl02.cacs.usl.eduLike how the ancient Mayans had televison." Repo Man

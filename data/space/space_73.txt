@@ -11,7 +11,7 @@ your KILL file for this group (if you're not reading this with a newsreader
 that can kill articles by subject, you're out of luck).
     The FAQ volume is excessive right now and will hopefully be trimmed down
 by rewriting and condensing over time. The FAQ postings are available in
-the Ames SPACE archive in FAQ/faq<#>.
+the Ames SPACE archive in FAQ/faq<#.
     Good summaries will be accepted in place of the answers given here. The
 point of this is to circulate existing information, and avoid rehashing old
 answers. Better to build on top than start again. Nothing more depressing

@@ -1,4 +1,4 @@
-on Date: Sat, 3 Apr 1993 12:38:50 GMT, Paul Dietz <dietz@cs.rochester.edu>
+on Date: Sat, 3 Apr 1993 12:38:50 GMT, Paul Dietz <dietz@cs.rochester.edu
 writes:
 /in essence, holding a match under the nozzle, is just *nuts*.  One
 /thing you absolutely must do in such an engine is to guarantee that

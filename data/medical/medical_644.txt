@@ -483,5 +483,5 @@ Proceedings from the second workshop will be published by the Quintessence
 Company in late 1993.
 --------- end of part 1 ------------
       Internet: david@stat.com                  FAX: +1 (602) 451-1165
-      Bitnet: ATW1H@ASUACAD                     FidoNet=> 1:114/15
+      Bitnet: ATW1H@ASUACAD                     FidoNet= 1:114/15
                 Amateur Packet ax25: wb7tpy@wb7tpy.az.usa.na

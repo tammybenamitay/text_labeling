@@ -5,5 +5,5 @@ fuselage, a plot that is a **paraboloid** minimizes somethin'
 or 'nother (to be technical about it).
 * Fred Baube (tm)         *  In times of intellectual ferment,
 * baube@optiplan.fi       * advantage to him with the intellect
-* #include <disclaimer.h> * most fermented
+* #include <disclaimer.h * most fermented
 * May '68, Paris: It's Retrospective Time !!  
